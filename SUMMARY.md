@@ -1,4 +1,4 @@
-# 目录
+# Summary
 
 * [linux](README.md)
   * [简介](jian-jie.md)
@@ -6,9 +6,8 @@
   * [常用命令](chang-yong-ming-ling.md)
   * [常用软件安装](chang-yong-ruan-jian-an-zhuang.md)
 * [redis](rhiro.md)
-  * Redis基础
+  * [基础](rhiro/ji-chu.md)
+  * [框架](rhiro/kuang-jia.md)
 * [shrio](redis.md)
 * [springboot](springboot.md)
-
-
 
