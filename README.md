@@ -1,12 +1,12 @@
 # 教学大纲
 
-## Linux
+## linux
 
-## Redis
+## redis
 
-## Shiro
+## shiro
 
-## Springboot
+## springboot
 
 
 
